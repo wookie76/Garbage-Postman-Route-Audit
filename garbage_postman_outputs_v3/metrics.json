@@ -1,0 +1,47 @@
+{
+  "depot": "D",
+  "nodes": 10,
+  "original_streets": 16,
+  "base_cost": 70.0,
+  "duplicate_cost": 12.0,
+  "total_route_cost": 82.0,
+  "odd_nodes": [
+    "A",
+    "D",
+    "G",
+    "I"
+  ],
+  "optimal_pairs": [
+    [
+      "A",
+      "I"
+    ],
+    [
+      "D",
+      "G"
+    ]
+  ],
+  "route": [
+    "D",
+    "G",
+    "H",
+    "J",
+    "G",
+    "D",
+    "H",
+    "E",
+    "I",
+    "J",
+    "D",
+    "E",
+    "B",
+    "E",
+    "I",
+    "F",
+    "C",
+    "B",
+    "A",
+    "B",
+    "D"
+  ]
+}

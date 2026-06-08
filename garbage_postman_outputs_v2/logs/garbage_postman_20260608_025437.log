@@ -1,0 +1,6 @@
+2026-06-08 02:54:37 | INFO | __main__:run_solution:1004 | Building graph
+2026-06-08 02:54:37 | INFO | __main__:solve_chinese_postman:394 | Computing graph audit
+2026-06-08 02:54:37 | INFO | __main__:solve_chinese_postman:397 | Odd-degree nodes: A, D, G, I
+2026-06-08 02:54:37 | INFO | __main__:solve_chinese_postman:402 | Optimal odd-node pairs: [('A', 'I'), ('D', 'G')]
+2026-06-08 02:54:37 | INFO | __main__:run_solution:1009 | Saving visualizations to garbage_postman_outputs_v2
+2026-06-08 02:54:39 | INFO | __main__:run_solution:1011 | Done. Total route cost: 82 minutes
